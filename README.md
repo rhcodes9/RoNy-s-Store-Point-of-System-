@@ -1,46 +1,37 @@
 # RoNy-s-Store-Point-of-System-
 A system with a selling module that includes accurate computations, clear product categories, and automatic data output. It has a maintenance module with expiration tracking and buttons to add or delete records. The sales report automatically calculates total payments based on the stored transaction data. 
 
-**Application Features**
-1. Sales / Computation Page
+📱 Application Features
 
-The first page is used for selling and automatic computations.
-Products are organized by categories. For example, if you select the Drinks category, only drink products will be displayed.
+🧮 Sales & Computation Page
 
-This page shows:
+The first page is used for selling products with automatic computations.
+Products are organized by categories. For example, when the Drinks category is selected, only drink products will be displayed.
 
-Total sales amount
+- This page includes:
+- Total sales amount
+- Total profit
+- Customer payment input
+- Automatically calculated change
+- All computations are handled automatically to ensure fast, accurate, and efficient transactions.
 
-Total profit
+⏰ Product Expiration Management
 
-Customer payment and calculated change
-
-All calculations are done automatically to make the selling process faster and easier.
-
-2. Product Expiration Management
-
-The second page manages product expiration dates.
-It provides alerts or reminders when a product is already expired.
+The second page is designed to manage product expiration dates.
+It provides alerts or reminders when products are already expired.
 
 Features include:
+- Adding products with categories and expiration dates
+- Automatic expiration notifications
+- Editing product information
+- Deleting products with incorrect or outdated data
+This helps prevent selling expired products and keeps inventory organized.
 
-Adding products with categories and expiration dates
+📊 Sales Report
 
-Automatic expiration notifications
+The third page displays the Sales Report, showing total sales and profit within a selected time range, such as:
+- Daily
+- Weekly
+- Monthly
 
-Editing product information
-
-Deleting products if there are errors or no longer needed
-
-3. Sales Report
-
-The third page is the Sales Report section.
-It displays the total profit and sales within a selected time range, such as:
-
-Daily
-
-Weekly
-
-Monthly
-
-This helps track business performance over time.
+This feature helps users monitor business performance and analyze sales trends over time.
