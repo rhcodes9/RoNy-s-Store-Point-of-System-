@@ -17,6 +17,8 @@ Products are organized by categories. For example, when the Drinks category is s
 - All computations are handled automatically to ensure fast, accurate, and efficient transactions.
 
 ⏰ Product Expiration Management
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/aa2528f7-1850-42bd-94fc-bf479abd4215" />
+
 
 The second page is designed to manage product expiration dates.
 It provides alerts or reminders when products are already expired.
@@ -29,6 +31,7 @@ Features include:
 This helps prevent selling expired products and keeps inventory organized.
 
 📊 Sales Report
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/687cdc3a-9df1-4b83-ab4a-6334e40a4f34" />
 
 The third page displays the Sales Report, showing total sales and profit within a selected time range, such as:
 - Daily
