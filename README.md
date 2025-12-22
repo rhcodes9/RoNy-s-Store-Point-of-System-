@@ -4,7 +4,7 @@ A system with a selling module that includes accurate computations, clear produc
 📱 Application Features
 
 🧮 Sales & Computation Page
-<img width="1202" height="732" alt="image" src="https://github.com/user-attachments/assets/e35f2784-de0d-4f9c-bd48-c26c35397294" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/ceac8cd9-00c8-403a-8ce0-c2cb6f44437b" />
 
 The first page is used for selling products with automatic computations.
 Products are organized by categories. For example, when the Drinks category is selected, only drink products will be displayed.
